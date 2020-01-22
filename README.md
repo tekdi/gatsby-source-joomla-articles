@@ -18,10 +18,10 @@ module.exports = {
         //URL of the Joomla project (Rest api to fetch the articles)
         baseUrl: "url",
       rowLimits:{
-        //Limit for how many articles you want to fetch.
+        //Limit:How many articles you want to fetch.
         limit:20,
         step:100,
-        //Step for how many articles you want to fetch at one fetch request.
+        //Step : How many articles you want to fetch at one fetch request.
         },
       },
     }
